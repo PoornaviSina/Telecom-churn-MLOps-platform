@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MLOps generated files
+mlruns/
+*.db
+*.sqlite
+*.sqlite3
+
+# Local model artifacts
+models/*.pkl
+models/*.joblib
+
+# Logs
+logs/
+*.log
