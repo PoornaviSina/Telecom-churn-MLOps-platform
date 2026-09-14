@@ -230,3 +230,8 @@ models/*.joblib
 # Logs
 logs/
 *.log
+
+
+# Generated monitoring/test files
+data/current/current_telco_churn.csv
+monitoring/drift_report.json
