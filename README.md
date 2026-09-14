@@ -1,8 +1,6 @@
 # Telecom Churn MLOps Platform
 
-A real-time AI prediction platform for predicting customer churn using Machine Learning and MLOps practices.
-
-This project demonstrates an end-to-end machine learning workflow including data preprocessing, model training, experiment tracking, real-time prediction, automated retraining, CI/CD, data drift monitoring, and dashboard-based monitoring.
+Real-Time Telecom Customer Churn Prediction Platform with Automated MLOps Pipeline
 
 ---
 
